@@ -6,10 +6,10 @@ import { HttpModule } from '@angular/http';
 import { AppComponent } from './app.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { HeaderComponent } from './header/header.component';
-import { RecipiesComponent } from './recipies/recipies.component';
-import { RecipieListComponent } from './recipies/recipie-list/recipie-list.component';
-import { RecipieDetailComponent } from './recipies/recipie-detail/recipie-detail.component';
-import { RecipieItemComponent } from './recipies/recipie-list/recipie-item/recipie-item.component';
+import { RecipesComponent } from './recipes/recipes.component';
+import { RecipeListComponent } from './recipes/recipe-list/recipe-list.component';
+import { RecipeDetailComponent } from './recipes/recipe-detail/recipe-detail.component';
+import { RecipeItemComponent } from './recipes/recipe-list/recipe-item/recipe-item.component';
 import { ShoppingListComponent } from './shopping-list/shopping-list.component';
 import { ShoppingEditComponent } from './shopping-list/shopping-edit/shopping-edit.component';
 
@@ -17,10 +17,10 @@ import { ShoppingEditComponent } from './shopping-list/shopping-edit/shopping-ed
   declarations: [
     AppComponent,
     HeaderComponent,
-    RecipiesComponent,
-    RecipieListComponent,
-    RecipieDetailComponent,
-    RecipieItemComponent,
+    RecipesComponent,
+    RecipeListComponent,
+    RecipeDetailComponent,
+    RecipeItemComponent,
     ShoppingListComponent,
     ShoppingEditComponent,
   ],
