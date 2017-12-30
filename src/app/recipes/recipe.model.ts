@@ -9,5 +9,4 @@ export class Recipe {
         this.discription = desc;
         this.imagePath = imagePath;
     }
-
 }
