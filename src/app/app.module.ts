@@ -28,7 +28,7 @@ import { ShoppingEditComponent } from './shopping-list/shopping-edit/shopping-ed
     BrowserModule,
     FormsModule,
     HttpModule,
-    BrowserAnimationsModule, 
+    BrowserAnimationsModule,
 
   ],
   providers: [],
